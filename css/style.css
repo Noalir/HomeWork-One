@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'Bebas'; 
-	src: url(../Fonts/Bebas\ Neue\ Cyrillic.ttf);
+	src: url(./Fonts/Bebas\ Neue\ Cyrillic.ttf);
 }
 
 @font-face {
 	font-family: 'OpenSans'; 
-	src: url(../Fonts/OpenSans.ttf);
+	src: url(./Fonts/OpenSans.ttf);
 }
 
 body {
